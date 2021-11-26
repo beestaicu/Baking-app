@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baking</string>
+    <string name="recipe_card_view_text">Recipe 1</string>
+    <string name="error_message">An error has occured.
+        Please make sure your phone is connected to a network and try again.</string>
+    <string name="serving_label">Servings:</string>
+    <string name="ingredients_label">Ingredients:</string>
+    <string name="steps_label">Steps:</string>
+</resources>

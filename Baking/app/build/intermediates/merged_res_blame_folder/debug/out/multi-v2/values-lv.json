@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\beest\\Documents\\android\\Baking\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lv\\values-lv.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\beest\\.gradle\\caches\\transforms-3\\e1efcafaf782305fcc4eddd335912532\\transformed\\jetified-exoplayer-ui-r2.5.1\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,133,211,282,351,438,518,603,684,760",
+                        "endColumns": "77,77,70,68,86,79,84,80,75,67",
+                        "endOffsets": "128,206,277,346,433,513,598,679,755,823"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\beest\\.gradle\\caches\\transforms-3\\2b1010b61f15da653a4cf344006c486d\\transformed\\core-1.0.0\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "828",
+                        "endColumns": "100",
+                        "endOffsets": "924"
+                    }
+                }
+            ]
+        }
+    ]
+}

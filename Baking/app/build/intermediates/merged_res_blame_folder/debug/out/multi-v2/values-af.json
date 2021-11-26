@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\beest\\Documents\\android\\Baking\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\beest\\.gradle\\caches\\transforms-3\\2b1010b61f15da653a4cf344006c486d\\transformed\\core-1.0.0\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "795",
+                        "endColumns": "100",
+                        "endOffsets": "891"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\beest\\.gradle\\caches\\transforms-3\\e1efcafaf782305fcc4eddd335912532\\transformed\\jetified-exoplayer-ui-r2.5.1\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,138,212,277,343,419,499,578,656,730",
+                        "endColumns": "82,73,64,65,75,79,78,77,73,64",
+                        "endOffsets": "133,207,272,338,414,494,573,651,725,790"
+                    }
+                }
+            ]
+        }
+    ]
+}

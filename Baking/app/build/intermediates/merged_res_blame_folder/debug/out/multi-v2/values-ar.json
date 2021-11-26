@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\beest\\Documents\\android\\Baking\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ar\\values-ar.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\beest\\.gradle\\caches\\transforms-3\\e1efcafaf782305fcc4eddd335912532\\transformed\\jetified-exoplayer-ui-r2.5.1\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,133,214,286,352,437,514,592,674,742",
+                        "endColumns": "77,80,71,65,84,76,77,81,67,65",
+                        "endOffsets": "128,209,281,347,432,509,587,669,737,803"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\beest\\.gradle\\caches\\transforms-3\\2b1010b61f15da653a4cf344006c486d\\transformed\\core-1.0.0\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "808",
+                        "endColumns": "100",
+                        "endOffsets": "904"
+                    }
+                }
+            ]
+        }
+    ]
+}
